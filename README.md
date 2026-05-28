@@ -56,13 +56,6 @@ Activo creador de contenido sobre **programación, inteligencia artificial y des
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=johannhsdev&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannhsdev&layout=compact&theme=tokyonight)
-
----
-
 ## 🎥 Featured Content
 
 ### 📺 YouTube

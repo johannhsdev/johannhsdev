@@ -72,17 +72,17 @@ Activo creador de contenido sobre **programación, inteligencia artificial y des
 
 ### 🎵 TikTok (Previews reales)
 
-<a href="https://www.tiktok.com/@johannhs.dev/video/7596751881775451403">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/oYFWZACpbAyeBqSAE9LRBRFCJLtfIjOAEz5QED~tplv-tiktokx-origin.image?dr=14575&x-expires=1769036400&x-signature=9yBddRyyGxky%2F5AZZnx9p8X1wBs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=maliva" width="180"/>
+<a href="https://www.tiktok.com/@johannhs.dev/video/7641602517624769812">
+  <img src="https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oUZBBf0DCiAqIQbNOE1wiA6MITIjANLAkA7Em0~tplv-tiktokx-origin.image?dr=10395&x-expires=1780138800&x-signature=ZtwY4hP6cTTLJVRj6t8LPkgXx3Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a" width="180"/>
 </a>
-<a href="https://www.tiktok.com/@johannhs.dev/video/7596086103875145016">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/oI09c0ASIEZyqfABrbpEVDnCaQgAJVAfQAHFDR~tplv-tiktokx-origin.image?dr=14575&x-expires=1769036400&x-signature=F5okmniQcGsLYwTJdJZYWOSxG4E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=maliva" width="180"/>
+<a href="https://www.tiktok.com/@johannhs.dev/video/7639756459781229844">
+  <img src="https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o4NAft5nAPkI8f4Uj6iEDbUMJIIuEALFAAACeG~tplv-tiktokx-origin.image?dr=10395&x-expires=1780138800&x-signature=hjfQ%2BPdHdnhrBfZsEX3G9oTQXTc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a" width="180"/>
+</a>
+<a href="https://www.tiktok.com/@johannhs.dev/video/7596751881775451403">
+  <img src="https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-p-0068/oYFWZACpbAyeBqSAE9LRBRFCJLtfIjOAEz5QED~tplv-photomode-zoomcover:720:720.avif?dr=10375&x-expires=1780138800&x-signature=wWrQxN6lLgLYX4UqAJ%2FkeMCEjBE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a&ftpl=1" width="180"/>
 </a>
 <a href="https://www.tiktok.com/@johannhs.dev/video/7574532341780057355">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/owRAyB7aAwAQaAPpIiJFETIHIChfqAuenQDJEm~tplv-tiktokx-origin.image?dr=14575&x-expires=1769036400&x-signature=YcuBkBkuheHhCXu0PxV3ZqVQvAE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=maliva" width="180"/>
-</a>
-<a href="https://www.tiktok.com/@johannhs.dev/video/7595671012608544012">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/os1kzSK8ImEnALfGKASQAgCfZ5A0EsGLIgPejR~tplv-tiktokx-origin.image?dr=14575&x-expires=1769036400&x-signature=wwQPe7w%2BR2gt1L%2F99qEY8QpwB%2FY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=maliva" width="180"/>
+  <img src="https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-p-0068/owRAyB7aAwAQaAPpIiJFETIHIChfqAuenQDJEm~tplv-tiktokx-origin.image?dr=10395&x-expires=1780138800&x-signature=MFCFP2ISAxsT62esneejMs%2BgDJk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a" width="180"/>
 </a>
 
 ---

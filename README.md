@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH4n6QdfcnyvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681839292420?e=1770249600&v=beta&t=IG6sfdybniMfmSpkCWFYpEczlbe-Cr0xkZC74FaZotI" alt="Johann Hurtado Banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH4n6QdfcnyvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681839292420?e=1781740800&v=beta&t=6DwQODL3h7CXXV0Ty1wEn2jl0aw0CXlUw1YThxIm9yQ" alt="Johann Hurtado Banner"/>
 </p>
 
 # 👋 Hi, I'm Johann Hurtado
